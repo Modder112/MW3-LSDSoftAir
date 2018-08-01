@@ -1,0 +1,6 @@
+c:\users\agando\documents\visual studio 2012\Projects\SoftAir\SoftAir\bin\Debug\SoftAir.dll
+c:\users\agando\documents\visual studio 2012\Projects\SoftAir\SoftAir\bin\Debug\SoftAir.pdb
+c:\users\agando\documents\visual studio 2012\Projects\SoftAir\SoftAir\bin\Debug\InfinityScript.dll
+c:\users\agando\documents\visual studio 2012\Projects\SoftAir\SoftAir\obj\Debug\SoftAir.csprojResolveAssemblyReference.cache
+c:\users\agando\documents\visual studio 2012\Projects\SoftAir\SoftAir\obj\Debug\SoftAir.dll
+c:\users\agando\documents\visual studio 2012\Projects\SoftAir\SoftAir\obj\Debug\SoftAir.pdb
